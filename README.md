@@ -20,6 +20,8 @@ We conceived the full attention strategy to maximize the feature selection. This
 
 Link to IPC-SHM 2020 [http://www.schm.org.cn/#/IPC-SHM,2020]
 
+***
+
 #### 3.	Bridge Damage Detection (Julia)
 
 Go to the repository [https://github.com/founderlin/BridgeDamageDetection]
