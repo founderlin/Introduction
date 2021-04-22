@@ -3,7 +3,7 @@
 #### 1.	BIM-SIS APP (Swift)
 Go to the repository [https://github.com/founderlin/BIM-SIS_app]
 
-The corresponding research project: BIM-SIS 
+The corresponding research project: BIM-SIS
 [https://www.bim-sis.de/de/startseite/]
 
 ##### Research Project Introduction:
@@ -26,7 +26,7 @@ Link to IPC-SHM 2020 [http://www.schm.org.cn/#/IPC-SHM,2020]
 
 Go to the repository [https://github.com/founderlin/BridgeDamageDetection]
 
-The corresponding research project: cyberBridge 
+The corresponding research project: cyberBridge
 [https://tu-dresden.de/bu/bauingenieurwesen/cib/forschung/forschungsprojekte/cyberbridge]
 
 ##### Code Project Introduction:
