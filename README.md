@@ -9,6 +9,8 @@ The corresponding research project: BIM-SIS
 ##### Research Project Introduction:
 On the basis of a damage identification with acceptable costs BIM-SIS enables a first classification of the damages with the help of an extensive database of damages and the knowledge of the renovation effort required from both literature and first-hand experience. The overall objectives for the renovation strategy are as follows: To virtually combine the different data of the damage like plans and pictures, in a BIM-Model, so as to be able to assess it with knowledge based methods and develop a transparent and cost solid renovation method.
 
+*********************************
+
 #### 2.	Full Attention U-Net (Python + PyTorch)
 
 Go to the repository [https://github.com/founderlin/FullAttention_U-Net]
