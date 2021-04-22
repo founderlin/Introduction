@@ -34,7 +34,7 @@ The codes serve for structural analysis using finite element method (FEM). Berno
 
 ***
 
-#### 4.	Bridge Damage Assessment via Cloud Platform
+#### 4.	Bridge Damage Assessment via Cloud Platform (Python + Qt5)
 
 Go to the repository [https://github.com/founderlin/BridgeDamageAssessment_CloudPlatform]
 
