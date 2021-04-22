@@ -9,7 +9,7 @@ The corresponding research project: BIM-SIS
 ##### Research Project Introduction:
 On the basis of a damage identification with acceptable costs BIM-SIS enables a first classification of the damages with the help of an extensive database of damages and the knowledge of the renovation effort required from both literature and first-hand experience. The overall objectives for the renovation strategy are as follows: To virtually combine the different data of the damage like plans and pictures, in a BIM-Model, so as to be able to assess it with knowledge based methods and develop a transparent and cost solid renovation method.
 
-**
+***
 
 #### 2.	Full Attention U-Net (Python + PyTorch)
 
@@ -31,6 +31,8 @@ The corresponding research project: cyberBridge
 
 ##### Code Project Introduction:
 The codes serve for structural analysis using finite element method (FEM). Bernoulli beam elements are utilized to establish a numerical bridge model. Parallel simulation package is embedded in the current Julia release. This research work adopts this package in to verify the proposed bridge damage detection. In the current version, three different loss functions are considered for a comparative study. The results of a previous code version, where only one loss function is applied, is published in the conference proceeding CIB W78 2019, and the conference paper was invited to be extent and published in the journal Automation in Construction.
+
+***
 
 #### 4.	Bridge Damage Assessment via Cloud Platform
 
