@@ -1,5 +1,4 @@
-# Introduction of my codes and the corresponding research projects
-# 关于代码和相关科研项目的介绍
+# Introduction of my codes and the corresponding research projects // 关于代码和相关科研项目的介绍
 
 #### 1.	BIM-SIS APP (Swift)
 Go to the repository [https://github.com/founderlin/BIM-SIS_app]
