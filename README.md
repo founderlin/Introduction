@@ -39,6 +39,7 @@ The corresponding research project: cyberBridge
 
 
 ##### Code Project Introduction:
+> ###### 代码项目简介
 The codes serve for structural analysis using finite element method (FEM). Bernoulli beam elements are utilized to establish a numerical bridge model. Parallel simulation package is embedded in the current Julia release. This research work adopts this package in to verify the proposed bridge damage detection. In the current version, three different loss functions are considered for a comparative study. The results of a previous code version, where only one loss function is applied, is published in the conference proceeding CIB W78 2019, and the conference paper was invited to be extent and published in the journal Automation in Construction.
 
 ***
@@ -53,4 +54,5 @@ The corresponding research project: wiSIB
 > ###### 科研项目链接
 
 ##### Code Project Introduction:
+> ###### 代码项目简介
 This prototype is related to an academic article in peer review, and automates the proposed workflow. The cloud simulation platform of structural analysis software SOFiSTiK delivers APIs, which were adopted to implement the methodology. Figure 1 demonstrates the architecture of this software prototype; Figure 2 shows the screenshots of the graphic user interface (GUI).
