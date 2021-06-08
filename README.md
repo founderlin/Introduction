@@ -42,4 +42,4 @@ The corresponding research project: wiSIB
 [https://tu-dresden.de/bu/bauingenieurwesen/cib/forschung/forschungsprojekte/wisib-ein-simulations-und-wissensbasiertes-systemidentifikati-onsverfahren-fuer-bruecken]
 
 ##### Code Project Introduction:
-This prototype is related to an academic article in peer review, and automates the proposed workflow. The cloud simulation platform of structural analysis software SOFiSTiK delivers APIs, which were adopted to implement the methodology. Figure 1 demonstrates the architecture of this software prototype; Figure 2 shows the screenshots of the graphic user interface (GUI).
+A systematic solution is proposed in this project. In the pre-processing, numerous model variants with assumed damage are automatically generated. These models are posted to the cloud through available APIs for simulation. The required simulation results can be filtered out and subsequently downloaded. Afterwards, the filtered results are automatically evaluated, hereby the real monitoring data act as the reference. A generic architecture is developed and indicates the conception of cloud simulation based bridge damage detection.
