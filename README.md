@@ -1,17 +1,13 @@
-# Introduction of my codes and the corresponding research projects 
-> ## 关于代码和相关科研项目的介绍
+# Introduction of the coding projects
 
 #### 1.	BIM-SIS APP (Swift)
 Go to the repository [https://github.com/founderlin/BIM-SIS_app] 
-> ###### 代码库链接  
       
 The corresponding research project: BIM-SIS
 [https://www.bim-sis.de/de/startseite/]
-> ###### 科研项目链接
 
-##### Research Project Introduction:
-> ###### 科研项目简介
-On the basis of a damage identification with acceptable costs BIM-SIS enables a first classification of the damages with the help of an extensive database of damages and the knowledge of the renovation effort required from both literature and first-hand experience. The overall objectives for the renovation strategy are as follows: To virtually combine the different data of the damage like plans and pictures, in a BIM-Model, so as to be able to assess it with knowledge based methods and develop a transparent and cost solid renovation method.
+##### Code Project Introduction:
+This project aims to address the issues in on-site inspections, two components are developed. One serves for updating damage information during inspection, the other offers an AR interaction experience to visualize the rehabilitation information. A damage knowledge base is adopted, a specific schema representing rehabilitation information is designed and serialized in the format XML. The AR technology is applied to prompt the user experience with respect to rehabilitation measures display and the damaged area demonstration. Above all, an architecture is established to summarize this research work and propose a more generic conception for mobile AR information management in on-site inspection.
 
 ***
 
