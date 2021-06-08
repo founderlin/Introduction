@@ -1,4 +1,4 @@
-# Over veiw of the coding projects
+# Overveiw of the coding projects
 
 #### 1.	BIM-SIS APP (Swift + ARkit)
 Go to the repository [https://github.com/founderlin/BIM-SIS_app] 
